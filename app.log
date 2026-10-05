@@ -1,0 +1,9 @@
+2026-10-05 17:46:44 - INFO - Starting CSV processing workflow.
+2026-10-05 17:46:44 - INFO - CSV loaded successfully. Rows: 6
+2026-10-05 17:46:44 - ERROR - An unexpected error occurred: could not convert string to float: 'abc'
+2026-10-05 17:49:31 - INFO - Starting CSV processing workflow.
+2026-10-05 17:49:31 - INFO - CSV loaded successfully. Rows: 6
+2026-10-05 17:49:31 - INFO - Filtering completed. Rows remaining: 3
+2026-10-05 17:49:31 - INFO - Age statistics calculated. Mean: 27.8, Median: 28.0, Count: 5
+2026-10-05 17:49:31 - INFO - Filtered data written to filtered_data.json
+2026-10-05 17:49:31 - INFO - CSV processing workflow completed successfully.
